@@ -238,7 +238,7 @@
                     "background_color": "#FFD67E"
                 },{
                     "name": "Church bell",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/church_bell",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/church_bell.png",
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/church_bell.mp3?raw=true",
                     "background_color": "#FF8F64"
                 },{
@@ -277,8 +277,8 @@
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/truck_horn_2.mp3?raw=true",
                     "background_color": "#91D4FF"
                 },{
-                    "name": "Vitage",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/vitage.png",
+                    "name": "Vintage",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/vintage.png",
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/vintage_horn.mp3?raw=true",
                     "background_color": "#FF95B5"
                 },{
