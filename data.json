@@ -57,7 +57,7 @@
                     "name": "Emergency 2",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/emergency_2.png",
                     "mp3_url": "mp3_url",
-                    "background_color": "##FF8F64"
+                    "background_color": "#FF8F64"
                 },
                 {
                     "name": "Fart",
