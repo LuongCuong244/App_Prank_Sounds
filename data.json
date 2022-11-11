@@ -1,0 +1,59 @@
+{
+    "sound_prank": [
+        {
+            "name": "Air Horn",
+            "icon_url": "icon_url",
+            "background_color": "#ffffff",
+            "child": [
+                {
+                    "name": "Remix",
+                    "icon_url": "icon_url",
+                    "mp3_url": "mp3_url",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Car",
+                    "icon_url": "icon_url",
+                    "mp3_url": "mp3_url",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Cavalry",
+                    "icon_url": "icon_url",
+                    "mp3_url": "mp3_url",
+                    "background_color": "#FF8F64"
+                }
+            ]
+        }
+    ],
+    "fake_video_call": [
+        {
+            "name": "Ronaldo",
+            "avatar_url": "https://image.thanhnien.vn/w1024/Uploaded/2022/wsxrxqeiod/2022_06_19/ronaldo-2928.jpg",
+            "video_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Video_Call/Ronaldo/ronaldo_video_call.mp4?raw=true"
+        },
+        {
+            "name": "CR7",
+            "avatar_url": "https://image.thanhnien.vn/w1024/Uploaded/2022/wsxrxqeiod/2022_06_19/ronaldo-2928.jpg",
+            "video_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Video_Call/Ronaldo/ronaldo_video_call.mp4?raw=true"
+        }
+    ],
+    "crack_screen": [
+        {
+            "name": "Crack Screen 1",
+            "photo_url": "photo_url"
+        },
+        {
+            "name": "Crack Screen 1",
+            "photo_url": "photo_url"
+        },
+        {
+            "name": "Crack Screen 1",
+            "photo_url": "photo_url"
+        },
+        {
+            "name": "Crack Screen 1",
+            "photo_url": "photo_url"
+        }
+    ]
+}
