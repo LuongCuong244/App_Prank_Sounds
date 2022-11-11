@@ -4,7 +4,7 @@
             "name": "Air Horn",
             "icon_url": "icon_url",
             "background_color": "#ffffff",
-            "child": [
+            "children": [
                 {
                     "name": "Remix",
                     "icon_url": "icon_url",
