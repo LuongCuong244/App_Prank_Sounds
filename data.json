@@ -329,20 +329,37 @@
     ],
     "crack_screen": [
         {
-            "name": "Crack Screen 1",
-            "photo_url": "photo_url"
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_1.png"
         },
         {
-            "name": "Crack Screen 1",
-            "photo_url": "photo_url"
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_2.png"
         },
         {
-            "name": "Crack Screen 1",
-            "photo_url": "photo_url"
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_3.png"
         },
         {
-            "name": "Crack Screen 1",
-            "photo_url": "photo_url"
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_4.png"
+        },
+        {
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_5.png"
+        },
+        {
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_6.png"
+        },
+        {
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_7.png"
+        },
+        {
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_8.png"
+        },
+        {
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_9.png"
+        },
+        {
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_10.png"
+        },
+        {
+            "photo_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/crack_screen_11.png"
         }
     ]
 }
