@@ -580,6 +580,81 @@
                     "background_color": "#91D4FF"
                 }
             ]
+        },
+        {
+            "name": "Breaking",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/main.png",
+            "background_color": "#EFBE45",
+            "children":[
+                {
+                    "name": "Glass 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/glass1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Glass_Breaking_01.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Glass 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/glass2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Glass_Breaking_02.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Glass 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/glass3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Glass_Breaking_03.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Glass 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/glass4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Glass_Breaking_04.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Ceramics 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/ceramics1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Ceramics_Breaking_01.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Ceramics 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/ceramics2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Ceramics_Breaking_02.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Ceramics 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/ceramics3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Ceramics_Breaking_03.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Ceramics 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/ceramics4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Ceramics_Breaking_04.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Window 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/window1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Window_Breaking_01.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Window 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/window2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Window_Breaking_02.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                }
+            ]
+        },
+        {
+            "name": "Door bell",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/main.png",
+            "background_color": "#02AD8F",
+            "children":[
+                
+            ]
         }
     ],
     "fake_video_call": [
