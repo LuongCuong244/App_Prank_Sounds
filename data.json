@@ -313,6 +313,100 @@
                     "background_color": "#E093F8"
                 } 
             ]
+        },
+        {
+            "name": "Scary",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/main.png",
+            "background_color": "#6D75FF",
+            "children":[
+                {
+                    "name": "Screams 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/screams_1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Scary_Scream_01.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Screams 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/screams_2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Scary_Scream_02.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Screams 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/screams_3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Scary_Scream_03.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Screams 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/screams_4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Scary_Scream_04.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Screams 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/screams_5.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Scary_Scream_05.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Screams 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/screams_6.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Scary_Scream_06.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Laugh 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/laugh1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Creepy_Laugh_01.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Laugh 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/laugh2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Creepy_Laugh_02.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Laugh 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/laugh3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Creepy_Laugh_03.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Laugh 4",
+                    "icon_url": "htps://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/laugh4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Creepy_Laugh_04.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Laugh 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/laugh5.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Creepy_Laugh_05.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },{
+                    "name": "Spooky whisper 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/spooky_whisper1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Spooky_Whisper_01.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },{
+                    "name": "Spooky whisper 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/spooky_whisper2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Spooky_Whisper_02.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Wolf howling",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/wolf_holwing.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Wolf_Holwing.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },{
+                    "name": "Owl hoot",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/owl_hoot.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/Owl_Hoot.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                }
+            ]
         }
     ],
     "fake_video_call": [
