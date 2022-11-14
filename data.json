@@ -714,6 +714,73 @@
                     "background_color": "#91D4FF"
                 }
             ]
+        },
+        {
+            "name": "Hair dryer",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/main.png",
+            "background_color": "#6D75FF",
+            "children":[
+                {
+                    "name": "Hair dryer 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_1.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Hair dryer 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_2.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Hair dryer 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_3.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Hair dryer 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_4.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Hair dryer 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_5.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_5.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Hair dryer 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_6.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_6.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Hair dryer 7",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_7.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_7.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Hair dryer 8",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_8.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_8.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Hair dryer 9",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_9.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_9.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Hair dryer 10",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/hair_dryer_10.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Dryer/Sounds/Hair_dryer_10.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                }
+            ]
         }
     ],
     "fake_video_call": [
