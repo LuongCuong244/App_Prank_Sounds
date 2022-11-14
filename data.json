@@ -781,6 +781,92 @@
                     "background_color": "#91D4FF"
                 }
             ]
+        },
+        {
+            "name": "Burp",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/main.png",
+            "background_color": "#EFBE45",
+            "children":[
+                {
+                    "name": "Male 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/male1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Male_Burp_01.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Male 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/male2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Male_Burp_02.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Male 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/male3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Male_Burp_03.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Female 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/female1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Female_Burp_01.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Female 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/female2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Female_Burp_02.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Female 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/female3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Female_Burp_03.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Long 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/long1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Long_Male_Burp_01.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Long 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/long2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Long_Male_Burp_02.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Big 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/big1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Big_Male_Burp_01.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Big 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/big2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Big_Male_Burp_02.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Big 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/big3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Big_Male_Burp_03.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },{
+                    "name": "Big 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/big4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Big_Male_Burp_04.mp3?raw=true",
+                    "background_color": "#E093F8"
+                }
+            ]
+        },
+        {
+            "name": "Stun gun",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/main.png",
+            "background_color": "#02AD8F",
+            "children":[
+                
+            ]
         }
     ],
     "fake_video_call": [
