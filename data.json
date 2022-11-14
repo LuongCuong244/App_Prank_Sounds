@@ -375,7 +375,7 @@
                 },
                 {
                     "name": "Laugh 4",
-                    "icon_url": "htps://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/laugh4.png",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/laugh4.png",
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Scary_Sounds/Sounds/Creepy_Laugh_04.mp3?raw=true",
                     "background_color": "#91D4FF"
                 },
@@ -865,7 +865,7 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/main.png",
             "background_color": "#02AD8F",
             "children":[
-                
+
             ]
         }
     ],
