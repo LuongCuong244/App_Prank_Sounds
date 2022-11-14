@@ -315,6 +315,14 @@
             ]
         },
         {
+            "name": "Hair Clipper",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/main.png",
+            "background_color": "#EFBE45",
+            "children": [
+
+            ]
+        },
+        {
             "name": "Scary",
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/main.png",
             "background_color": "#6D75FF",
@@ -716,6 +724,22 @@
             ]
         },
         {
+            "name": "Gun",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/main.png",
+            "background_color": "#FFFFFF",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Car",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/main.png",
+            "background_color": "#BDBDBD",
+            "children":[
+
+            ]
+        },
+        {
             "name": "Hair dryer",
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Dryer/Icons/main.png",
             "background_color": "#6D75FF",
@@ -861,9 +885,89 @@
             ]
         },
         {
+            "name": "Clapping",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Clapping/Icons/main.png",
+            "background_color": "#57BAFD",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Laughing",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/main.png",
+            "background_color": "#6D75FF",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Baby sneeze",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Baby_Sneeze/Icons/main.png",
+            "background_color": "#02AD8F",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Man cough",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Cough/Icons/main.png",
+            "background_color": "#FFFFFF",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Man sneeze",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Sneeze/Icons/main.png",
+            "background_color": "#EFBE45",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Woman cough",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Cough/Icons/main.png",
+            "background_color": "#BDBDBD",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Woman sneeze",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Sneeze/Icons/main.png",
+            "background_color": "#57BAFD",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Toilet",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Toilet/Icons/main.png",
+            "background_color": "#EFBE45",
+            "children":[
+
+            ]
+        },
+        {
             "name": "Stun gun",
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/main.png",
             "background_color": "#02AD8F",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Police",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Police/Icons/main.png",
+            "background_color": "#57BAFD",
+            "children":[
+
+            ]
+        },
+        {
+            "name": "Fast song",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart_Puffing_Songs/Icons/main.png",
+            "background_color": "#EFBE45",
             "children":[
 
             ]
