@@ -76,7 +76,7 @@
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/goal_horn.mp3?raw=true",
                     "background_color": "#E093F8"
                 },{
-                    "name": "Hella",
+                    "name": "Hellas",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/hella.png",
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/hella_horn.mp3?raw=true",
                     "background_color": "#60E1C2"
@@ -312,6 +312,112 @@
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/scifi_ship.mp3?raw=true",
                     "background_color": "#E093F8"
                 } 
+            ]
+        },
+        {
+            "name": "Fart",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/main.png",
+            "background_color": "#57BAFD",
+            "children":[
+                {
+                    "name": "Airy 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/airy1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Airy_01.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Airy 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/airy2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Airy_02.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Airy 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/airy3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Airy_03.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Bubbles 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/bubbes1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Bubbles_01.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Bubbles 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/bubbes2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Bubbles_02.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Squeak 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/squeak1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Squeak_01.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Squeak 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/squeak2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Squeak_02.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Squeak 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/squeak3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Squeak_03.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Squeak 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/squeak4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Squeak_04.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Wet 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/wet1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Wet_Fart_01.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Wet 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/wet2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Wet_Fart_02.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Wet dripping 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/wet_dripping1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Wet_Farts_Dripping_01.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Wet dripping 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/wet_dripping2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Wet_Farts_Dripping_02.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },{
+                    "name": "Wet dripping 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/wet_dripping3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Wet_Farts_Dripping_03.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },{
+                    "name": "Poop 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/poop1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Poop_Fart_01.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },{
+                    "name": "Poop 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/poop2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Poop_Fart_02.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Poop 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/poop3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Poop_Fart_03.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                }
             ]
         },
         {
