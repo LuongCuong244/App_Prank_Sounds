@@ -653,7 +653,66 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/main.png",
             "background_color": "#02AD8F",
             "children":[
-                
+                {
+                    "name": "Bell ring 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/bell_ring1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Bell_Ring_01.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Bell ring 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/bell_ring2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Bell_Ring_02.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Bell ring 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/bell_ring3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Bell_Ring_03.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Bell ring 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/bell_ring4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Bell_Ring_04.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Bell ring 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/bell_ring5.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Bell_Ring_05.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Bell ring 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/bell_ring6.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Bell_Ring_06.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Chime 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/chime1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Chime__01.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Chime 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/chime2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Chime__02.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Chime 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/chime3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Chime__03.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Chime 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Door_Bell/Icons/chime4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Door_Bell/Sounds/Door_Chime__04.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                }
             ]
         }
     ],
