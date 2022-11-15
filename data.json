@@ -319,7 +319,77 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/main.png",
             "background_color": "#EFBE45",
             "children": [
-
+                {
+                    "name": "5 Star Balding",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/5star_balding.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_1.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Andis Master",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/andis_master.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_2.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Bevel",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/bevel.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_3.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Caliber.50 cal",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/caliber50_cal.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_4.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Codol 531",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/codol_531.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_5.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Codos T6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/codos_t6.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_6.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Jichen JC-0817",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/jichen_jc_0817.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_7.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Kemei KM-730",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/kemei_km730.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_8.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Magic Clip C",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/magic_cip_c.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_9.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Oster Classic 76",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/oster_classic_76.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_10.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },{
+                    "name": "Oster Octane",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/oster_octane.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_11.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Supra ZR2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/supra_zr2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_12.mp3?raw=true",
+                    "background_color": "#E093F8"
+                }
             ]
         },
         {
@@ -728,7 +798,82 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/main.png",
             "background_color": "#FFFFFF",
             "children":[
-
+                {
+                    "name": "AA12",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "AK47",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "AUG",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Barretta 92F",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "M1911",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "M4A1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun6.mp3",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Magnum",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun7.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun7.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "MK47",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun8.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun8.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "MP5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun9.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun9.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Remington 870",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun10.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun10.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Scar-L",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun11.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun11.mp3",
+                    "background_color": "#FF95B5"
+                },{
+                    "name": "UZI",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun12.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun12.mp3",
+                    "background_color": "#E093F8"
+                },{
+                    "name": "Vector",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun13.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun13.mp3",
+                    "background_color": "#60E1C2"
+                }
             ]
         },
         {
@@ -736,7 +881,88 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/main.png",
             "background_color": "#BDBDBD",
             "children":[
-
+                {
+                    "name": "Carengine 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carengine_1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carengine_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Carengine 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carengine_2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carengine_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Carengine 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carengine_3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carengine_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Carengine 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carengine_4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carengine_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Carengine 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carengine_5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carengine_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Carengine 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carengine_6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carengine_6.mp3",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Carhorn 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carhorn1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carhorn_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Carhorn 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carhorn2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carhorn_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Carhorn 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carhorn3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carhorn_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Carhorn 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carhorn4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carhorn_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Carhorn 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carhorn5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carhorn_5.mp3",
+                    "background_color": "#FF95B5"
+                },{
+                    "name": "Carhorn 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carhorn6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carhorn_6.mp3",
+                    "background_color": "#E093F8"
+                },{
+                    "name": "Carhorn 7",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carhorn7.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carhorn_7.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Carhorn 8",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Car/Icons/carhorn8.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Car/funny_carhorn_8.mp3",
+                    "background_color": "#FFD67E"
+                }
             ]
         },
         {
@@ -889,7 +1115,12 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Clapping/Icons/main.png",
             "background_color": "#57BAFD",
             "children":[
-
+                {
+                    "name": "Clapping",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Clapping/Icons/main.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_2.mp3",
+                    "background_color": "#60E1C2"
+                }
             ]
         },
         {
@@ -897,7 +1128,48 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/main.png",
             "background_color": "#6D75FF",
             "children":[
-
+                {
+                    "name": "Laughing 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/laughing1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Laughing 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/laughing2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_8.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Laughing 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/laughing3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Laughing 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/laughing4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Laughing 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/laughing5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Laughing 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/laughing6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_6.mp3",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Laughing 7",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/laughing7.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_7.mp3",
+                    "background_color": "#60E1C2"
+                }
             ]
         },
         {
@@ -905,7 +1177,42 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Baby_Sneeze/Icons/main.png",
             "background_color": "#02AD8F",
             "children":[
-
+                {
+                    "name": "Baby 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Baby_Sneeze/Icons/baby1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Baby%20Sneeze/funny_baby_sneeze_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Baby 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Baby_Sneeze/Icons/baby2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Baby%20Sneeze/funny_baby_sneeze_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Baby 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Baby_Sneeze/Icons/baby3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Baby%20Sneeze/funny_baby_sneeze_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Baby 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Baby_Sneeze/Icons/baby4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Baby%20Sneeze/funny_baby_sneeze_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Baby 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Baby_Sneeze/Icons/baby5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Baby%20Sneeze/funny_baby_sneeze_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Baby 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Baby_Sneeze/Icons/baby6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Baby%20Sneeze/funny_baby_sneeze_6.mp3",
+                    "background_color": "#E093F8"
+                }
             ]
         },
         {
@@ -913,7 +1220,42 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Cough/Icons/main.png",
             "background_color": "#FFFFFF",
             "children":[
-
+                {
+                    "name": "Man cough 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Cough/Icons/mancough1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Cough/funny_man_cough_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Man cough 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Cough/Icons/mancough2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Cough/funny_man_cough_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Man cough 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Cough/Icons/mancough3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Cough/funny_man_cough_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Man cough 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Cough/Icons/mancough4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Cough/funny_man_cough_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Man cough 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Cough/Icons/mancough5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Cough/funny_man_cough_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Man cough 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Cough/Icons/mancough6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Cough/funny_man_cough_strong_1.mp3",
+                    "background_color": "#E093F8"
+                }
             ]
         },
         {
@@ -921,7 +1263,42 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Sneeze/Icons/main.png",
             "background_color": "#EFBE45",
             "children":[
-
+                {
+                    "name": "Man sneeze 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Sneeze/Icons/man_sneeze_1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Sneeze/funny_man_sneeze_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Man sneeze 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Sneeze/Icons/man_sneeze_2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Sneeze/funny_man_sneeze_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Man sneeze 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Sneeze/Icons/man_sneeze_3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Sneeze/funny_man_sneeze_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Man sneeze 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Sneeze/Icons/man_sneeze_4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Sneeze/funny_man_sneeze_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Man sneeze 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Sneeze/Icons/man_sneeze_5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Sneeze/funny_man_sneeze_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Man sneeze 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Man_Sneeze/Icons/man_sneeze_6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Man%20Sneeze/funny_man_sneeze_strong_1.mp3",
+                    "background_color": "#E093F8"
+                }
             ]
         },
         {
@@ -929,7 +1306,42 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Cough/Icons/main.png",
             "background_color": "#BDBDBD",
             "children":[
-
+                {
+                    "name": "Woman cough 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Cough/Icons/femalecough1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Cough/funny_woman_cough_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Woman cough 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Cough/Icons/femalecough2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Cough/funny_woman_cough_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Woman cough 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Cough/Icons/femalecough3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Cough/funny_woman_cough_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Woman cough 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Cough/Icons/femalecough4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Cough/funny_woman_cough_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Woman cough 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Cough/Icons/femalecough5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Cough/funny_woman_cough_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Woman cough 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Cough/Icons/femalecough6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Cough/funny_woman_cough_6.mp3",
+                    "background_color": "#E093F8"
+                }
             ]
         },
         {
@@ -937,7 +1349,42 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Sneeze/Icons/main.png",
             "background_color": "#57BAFD",
             "children":[
-
+                {
+                    "name": "Woman sneeze 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Sneeze/Icons/woman_sneeze_1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Sneeze/funny_woman_sneeze_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Woman sneeze 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Sneeze/Icons/woman_sneeze_2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Sneeze/funny_woman_sneeze_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Woman sneeze 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Sneeze/Icons/woman_sneeze_3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Sneeze/funny_woman_sneeze_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Woman sneeze 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Sneeze/Icons/woman_sneeze_4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Sneeze/funny_woman_sneeze_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Woman sneeze 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Sneeze/Icons/woman_sneeze_5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Sneeze/funny_woman_sneeze_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Man sneeze 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Woman_Sneeze/Icons/woman_sneeze_6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Woman%20Sneeze/funny_woman_sneeze_6.mp3",
+                    "background_color": "#E093F8"
+                }
             ]
         },
         {
@@ -945,7 +1392,42 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Toilet/Icons/main.png",
             "background_color": "#EFBE45",
             "children":[
-
+                {
+                    "name": "Toilet 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Toilet/Icons/toilet1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Toilet%20Flushing/toiletflushing_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Toilet 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Toilet/Icons/toilet2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Toilet%20Flushing/toiletflushing_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Toilet 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Toilet/Icons/toilet3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Toilet%20Flushing/toiletflushing_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Toilet 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Toilet/Icons/toilet4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Toilet%20Flushing/toiletflushing_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Toilet 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Toilet/Icons/toilet5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Toilet%20Flushing/toiletflushing_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Toilet 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Toilet/Icons/toilet6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Toilet%20Flushing/toiletflushing_6.mp3",
+                    "background_color": "#E093F8"
+                }
             ]
         },
         {
@@ -961,7 +1443,42 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Police/Icons/main.png",
             "background_color": "#57BAFD",
             "children":[
-
+                {
+                    "name": "Police 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Police/Icons/police1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Police/funny_police_1.mp3",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Police 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Police/Icons/police2.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Police/funny_police_2.mp3",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Police 3",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Police/Icons/police3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Police/funny_police_3.mp3",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Police 4",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Police/Icons/police4.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Police/funny_police_4.mp3",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Police 5",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Police/Icons/police5.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Police/funny_police_5.mp3",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Police 6",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Police/Icons/police6.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Police/funny_police_6.mp3",
+                    "background_color": "#E093F8"
+                }
             ]
         },
         {
