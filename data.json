@@ -1435,7 +1435,66 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/main.png",
             "background_color": "#02AD8F",
             "children":[
-
+                {
+                    "name": "Aimhunter",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_1.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_1.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Carlfvic",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_2.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_2.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Lifeguard Mini",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_3.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_3.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Mace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_4.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_4.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                },
+                {
+                    "name": "Police 928",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_5.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_5.mp3?raw=true",
+                    "background_color": "#FF95B5"
+                },
+                {
+                    "name": "Police Force",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_6.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_6.mp3?raw=true",
+                    "background_color": "#E093F8"
+                },
+                {
+                    "name": "Sabre kit",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_7.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_7.mp3?raw=true",
+                    "background_color": "#60E1C2"
+                },
+                {
+                    "name": "Sting ring",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_8.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_8.mp3?raw=true",
+                    "background_color": "#FFD67E"
+                },
+                {
+                    "name": "Taser X26",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_9.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_9.mp3?raw=true",
+                    "background_color": "#FF8F64"
+                },
+                {
+                    "name": "Tiger-USA",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Stun_Gun/Icons/stun_gun_10.png",
+                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Stun_Gun/Sounds/Stun_gun_10.mp3?raw=true",
+                    "background_color": "#91D4FF"
+                }
             ]
         },
         {
