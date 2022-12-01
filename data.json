@@ -2659,76 +2659,76 @@
         },
         {
             "name": "Fireworks",
-            "icon_url": "please_replace",
+            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/logofirework.png",
             "children": [
                 {
                     "name": "Firework 1",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework01.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Fireworks%20Rocket01.mp3"
                 },
                 {
                     "name": "Firework 2",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework02.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Fireworks%20Rocket02.mp3"
                 },
                 {
                     "name": "Firework 3",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework03.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Fireworks01.mp3"
                 },
                 {
                     "name": "Firework 4",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework04.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Fireworks02.mp3"
                 },
                 {
                     "name": "Firework 5",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework05.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Fireworks03.mp3"
                 },
                 {
                     "name": "Firework 6",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework06.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Fireworks04.mp3"
                 },
                 {
                     "name": "Firework 7",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework07.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Kisspng%20fireworks%20cake.mp3"
                 },
                 {
                     "name": "Firework 8",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework08.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Paper%20fireworks01.mp3"
                 },
                 {
                     "name": "Firework 9",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework09.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Paper%20fireworks02.mp3"
                 },
                 {
                     "name": "Firework 10",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework10.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Sparkler%20Fireworks01.mp3"
                 },
                 {
                     "name": "Firework 11",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework11.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Sparkler%20Fireworks02.mp3"
                 },
                 {
                     "name": "Firework 12",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework12.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Tet%20fireworks01.mp3"
                 },
                 {
                     "name": "Firework 13",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/firework13.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Tet%20fireworks02.mp3"
                 },
                 {
                     "name": "Firework 14",
-                    "icon_url": "please_replace",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fireworks/logofirework.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fireworks/Tet%20fireworks03.mp3"
                 }
             ]
