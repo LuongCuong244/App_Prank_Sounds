@@ -5,9 +5,24 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/main.png",
             "children": [
                 {
+                    "name": "Loud",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/loud.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_1.mp3"
+                },
+                {
+                    "name": "Remix",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/remix.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_13.mp3"
+                },
+                {
+                    "name": "Air",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/air.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_2.mp3"
+                },
+                {
                     "name": "Air horn 1",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/airhorn1.png",
-                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_5.mp3"
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/airhorn3.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_4.mp3"
                 },
                 {
                     "name": "Air horn 2",
@@ -16,23 +31,8 @@
                 },
                 {
                     "name": "Air horn 3",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/airhorn3.png",
-                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_4.mp3"
-                },
-                {
-                    "name": "Loud",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/loud.png",
-                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_1.mp3"
-                },
-                {
-                    "name": "Remix",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/remix.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/remix.mp3?raw=true"
-                },
-                {
-                    "name": "Air",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/air.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/airhorn.mp3?raw=true"
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/airhorn1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_5.mp3"
                 },
                 {
                     "name": "Car",
@@ -323,12 +323,12 @@
                 {
                     "name": "5 Star Balding",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/5star_balding.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_1.mp3?raw=true"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Hair%20Clipper/hairclipper_1.mp3"
                 },
                 {
                     "name": "Oster Classic 76",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Hair_Clipper/Icons/oster_classic_76.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Hair_Clipper/Sounds/hairclipper_10.mp3?raw=true"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Hair%20Clipper/hairclipper_10.mp3"
                 },
                 {
                     "name": "Andis Master",
@@ -389,7 +389,7 @@
                 {
                     "name": "Spooky whisper 1",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Scary_Sounds/Icons/spooky_whisper1.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Scary_Sounds/Sounds/Spooky_Whisper_01.mp3?raw=true"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Scary/scary_1.mp3"
                 },
                 {
                     "name": "Spooky whisper 2",
@@ -468,9 +468,9 @@
             "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Spooky/Icons/main.png",
             "children": [
                 {
-                    "name": "Evil Laughing",
-                    "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Spooky/Icons/Evil%20laughing.png",
-                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Halloween/Evil%20laughing.mp3"
+                    "name": "Boo And Laugh",
+                    "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Spooky/Icons/Boo%20and%20laugh.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Halloween/Boo%20and%20laugh.mp3"
                 },
                 {
                     "name": "Horror",
@@ -478,9 +478,9 @@
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Halloween/Horror.mp3"
                 },
                 {
-                    "name": "Boo And Laugh",
-                    "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Spooky/Icons/Boo%20and%20laugh.png",
-                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Halloween/Boo%20and%20laugh.mp3"
+                    "name": "Evil Laughing",
+                    "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Spooky/Icons/Evil%20laughing.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Halloween/Evil%20laughing.mp3"
                 },
                 {
                     "name": "Classic Ghost",
@@ -579,29 +579,29 @@
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_dj_initial.mp3"
                 },
                 {
+                    "name": "Wet dripping 1",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/wet_dripping1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_dj_short.mp3"
+                },
+                {
                     "name": "Fart Fart",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/fartfart.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_fart_13.mp3"
                 },
                 {
                     "name": "Squeak 1",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/squeak1.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Squeak_01.mp3?raw=true"
-                },
-                {
-                    "name": "Squeak 2",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/squeak2.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Squeak_02.mp3?raw=true"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_fart_1.mp3"
                 },
                 {
                     "name": "Bubbles 1",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/bubbes2.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Fart_Bubbles_02.mp3?raw=true"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_fart_9.mp3"
                 },
                 {
-                    "name": "Wet dripping 1",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/wet_dripping1.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Fart/Sounds/Wet_Farts_Dripping_01.mp3?raw=true"
+                    "name": "Squeak 2",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Fart/Icons/squeak1.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_fart_11.mp3"
                 },
                 {
                     "name": "Airy 1",
@@ -675,19 +675,19 @@
             "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Fart%20Puffing%20Songs/Icons/main.png",
             "children": [
                 {
+                    "name": "Puffing Funny Mozar 1",
+                    "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Fart%20Puffing%20Songs/Icons/mozart%201.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_song_1.mp3"
+                },
+                {
                     "name": "Puffing Hip Hop",
                     "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Fart%20Puffing%20Songs/Icons/hiphop.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/raw/main/Sound_Prank/Fart_Puffing_Songs/Sounds/Fart_Puffing_Hiphop.mp3"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_song_10.mp3"
                 },
                 {
                     "name": "Fart Puffing Funny 1",
                     "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Fart%20Puffing%20Songs/Icons/funny2.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/raw/main/Sound_Prank/Fart_Puffing_Songs/Sounds/Fart_Puffing_Funny_02.mp3"
-                },
-                {
-                    "name": "Puffing Funny Mozar 1",
-                    "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Fart%20Puffing%20Songs/Icons/mozart%201.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/raw/main/Sound_Prank/Fart_Puffing_Songs/Sounds/Deep_Puffing_Funny.mp3"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Fart/fart_song_9.mp3"
                 },
                 {
                     "name": "Puffing Funny Mozar 2",
@@ -799,7 +799,7 @@
                 {
                     "name": "Glass 1",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Glass_Break/Icons/glass1.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Glass_Break/Sounds/Glass_Breaking_01.mp3?raw=true"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Breaking/breaking_1.mp3"
                 },
                 {
                     "name": "Glass 2",
@@ -914,14 +914,14 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/main.png",
             "children": [
                 {
-                    "name": "Remington 870",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun10.png",
-                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun_10.mp3"
-                },
-                {
                     "name": "AA12",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun1.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun_1.mp3"
+                },
+                {
+                    "name": "Remington 870",
+                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Gun/Icons/gun10.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Gun/gun_10.mp3"
                 },
                 {
                     "name": "AK47",
@@ -1119,7 +1119,7 @@
                 {
                     "name": "Male 1",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Burp/Icons/male1.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Burp/Sounds/Male_Burp_02.mp3?raw=true"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Burp/funny_burp_1.mp3"
                 },
                 {
                     "name": "Male 2",
